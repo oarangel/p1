@@ -19,7 +19,7 @@ $phrases = [
             text-align: center;
         }
         .left {
-            text-align: left;
+            text-align: justify;
         }
     </style>
 </head>
@@ -36,13 +36,13 @@ $phrases = [
 
 <div class="left">
     <p style="font-family:arial;"> I am Senior Controls Engineer with the <strong>General Electric Company</strong>.
-        I have a <strong> BSEE</strong> from <em>Tulane University</em> and a PE License from <em>the State of Louisiana</em>.
+        I have a <strong> BSEE</strong> from <em>Tulane University</em> and a <strong>PE</strong> License from <em>the State of Louisiana</em>.
         My job involves replacing Gas Turbines legacy electronic components
-        with the latest generation of controls and computer software.<br>
+        with the latest generation of controls and computer software.
         With the increasing industrial demand for web based applications,
         this course is a good starting point for learning about dynamic,
         database-driven web applications. In addition, it will be a good opportunity
-        to learn about PHP and Laravel.</p>
+        to learn about <strong>PHP</strong> and <strong>Laravel</strong>.</p>
 </div>
 <div class="center">
     <h2 style="font-family: Tahoma"> <em>Random Quote</em></h2>
