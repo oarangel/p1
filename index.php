@@ -18,7 +18,7 @@ $phrases = [
         .center {
             text-align: center;
         }
-        .left {
+        .justify {
             text-align: justify;
         }
     </style>
@@ -34,7 +34,7 @@ $phrases = [
     <h2 style="font-family: Tahoma"><em>About Me</em></h2>
 </div>
 
-<div class="left">
+<div class="justify">
     <p style="font-family:arial;"> I am Senior Controls Engineer with the <strong>General Electric Company</strong>.
         I have a <strong> BSEE</strong> from <em>Tulane University</em> and a <strong>PE</strong> License from <em>the State of Louisiana</em>.
         My job involves replacing Gas Turbines legacy electronic components
